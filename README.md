@@ -8,7 +8,7 @@ Years ago I specialized in graphic design and motion graphic, but I have discove
 
 *   🌍  I'm based in Granada (España)
 *   ✉️  You can contact me at [javierrocanton@gmail.com](mailto:javierrocanton@gmail.com)
-*   🧠  I'm learning JavaScript
+*   🧠  I'm learning JavaScript <br>
 <a href="https://www.twitter.com/JavierPolaris" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/JavierPolaris?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><p align="left">
