@@ -1,8 +1,8 @@
 Hi 👋 My name is Javier Polaris
 ===============================
 
-Full Stack Developed
---------------------
+Future Full Stack Developed
+---------------------------
 
 Years ago I specialized in graphic design and motion graphic, but I have discovered my great passion, programming!!!
 
