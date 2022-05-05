@@ -10,7 +10,7 @@ Years ago I specialized in graphic design and motion graphic, but I have discove
 *   ✉️  You can contact me at [javierrocanton@gmail.com](mailto:javierrocanton@gmail.com)
 *   🧠  I'm learning JavaScrip<a href="https://www.twitter.com/JavierPolaris" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/JavierPolaris?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills<p align="left">
+                /></a><p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                                 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
